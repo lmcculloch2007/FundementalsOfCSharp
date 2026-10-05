@@ -6,7 +6,7 @@ namespace FundementalsOfCSharp
 {
     class Syntax
     {
-        static void Main(string[] args)
+        public static void MainSyntax()
         {
             //Write line is used to print text
             //Console is the class of the system namespace
@@ -17,9 +17,6 @@ namespace FundementalsOfCSharp
             //write is similar to WriteLine though the only difference
             //being that it does not insert a new line at the end of the output
             Console.Write("What is your name?");
-            
-            
-            
         }
     }
 }

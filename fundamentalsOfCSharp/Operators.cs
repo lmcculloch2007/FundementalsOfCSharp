@@ -2,7 +2,7 @@ namespace FundementalsOfCSharp;
 
 public class Operators
 {
-    static void main()
+    public static void mainOperators()
     {
         //The math operators are the same as in other languages
 

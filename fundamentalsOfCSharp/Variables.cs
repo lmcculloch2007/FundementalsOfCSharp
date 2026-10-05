@@ -7,7 +7,7 @@ public class Variables
 {
      
     
-    static void Main2()
+    public static void mainVariables()
     {
         //String Variable
         String Name = "Lucas"; 
